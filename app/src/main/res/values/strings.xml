@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="todo">todo</string>
+    <string name="username">Username</string>
+    <string name="paassword">Password</string>
+    <string name="Register">Register Here</string>
+    <string name="pro_name">aravin_98</string>
+    <string name="liked_by">Liked By</string>
+    <string name="Name">mumbiker.nikkhil</string>
+    <string name="add_com">Add a comment....</string>
+    <string name="time">8 HOURS AGO</string>
+</resources>
